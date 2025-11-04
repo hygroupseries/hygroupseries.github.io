@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub profile!
+## 👋 Welcome to my Personal Website!
 
 Hi there! I'm a Software Engineering student passionate about building things and learning new technologies. Currently diving deep into computer science fundamentals through CS61A, CS61B, and CS106B/L while vibing with code.
 
